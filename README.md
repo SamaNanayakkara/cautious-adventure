@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/SamaNanayakkara/cautious-adventure/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Sama Nanayakkara! I am a 2nd year Nanotechnology Engineering student at UWaterloo. Explore this website to learn more about me!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
